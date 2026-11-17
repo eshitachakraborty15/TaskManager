@@ -6,7 +6,7 @@ import {
   useTasks
 } from "../context/TaskContext";
 
-import TaskCard from "../components/TaskCard";
+import TaskCard from "../Components/TaskCard";
 
 import {
   Link
