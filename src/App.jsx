@@ -6,10 +6,10 @@ import {
 
 
 import Navbar
-  from "./components/Navbar";
+  from "./Components/Navbar";
 
 import ProtectedRoute
-  from "./components/ProtectedRoute";
+  from "./Components/ProtectedRoute";
 
 
 import Login
